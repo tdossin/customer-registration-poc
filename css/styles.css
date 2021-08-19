@@ -1,0 +1,36 @@
+HEADER{
+  padding: 20px;
+  margin: 0 0 20px 0;
+  color: #fff;
+  border-bottom: 1px solid green;
+  background-image: linear-gradient(to right, #d35400, #e67e22);
+}
+
+FORM{
+  margin: 40px 0;
+}
+
+TABLE{
+  margin: 40px 0;
+}
+
+SPAN.photo img{
+  max-height: 100px;
+  max-width: 75px;
+  margin: 0 auto;
+}
+
+FOOTER{
+  padding: 20px;
+  margin: 60px 0 0 0;
+  color: #fff;
+  background-color: #bbb;
+}
+
+SPAN.sort{
+  cursor: pointer;
+}
+
+.rotate-180{
+  transform: rotate(180deg);
+}
